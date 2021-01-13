@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExpressionBuilder.Tests
+namespace DynamicQuerying.Tests
 {
     public class TestObject
     {

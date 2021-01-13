@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Xunit;
-using static ExpressionBuilder.DynamicQuerying;
+using static DynamicQuerying.DynamicQuerying;
 
-namespace ExpressionBuilder.Tests
+namespace DynamicQuerying.Tests
 {
     public class ListOfQueriesTests
     {

@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ExpressionBuilder\DynamicQuerying.csproj" />
+    <ProjectReference Include="..\DynamicQuerying\DynamicQuerying.csproj" />
   </ItemGroup>
 
 </Project>

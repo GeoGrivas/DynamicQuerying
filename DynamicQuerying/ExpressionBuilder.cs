@@ -5,7 +5,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace ExpressionBuilder
+namespace DynamicQuerying
 {
     public static class DynamicQuerying
     {
