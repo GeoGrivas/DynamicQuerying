@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicQuerying", "ExpressionBuilder\DynamicQuerying.csproj", "{1408205E-6470-49D5-BAB4-33C270DA1638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicQuerying.Tests", "ExpressionBuilder.Tests\DynamicQuerying.Tests.csproj", "{DFC655BE-63C4-43C0-9071-5AB86EB40621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1408205E-6470-49D5-BAB4-33C270DA1638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1408205E-6470-49D5-BAB4-33C270DA1638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1408205E-6470-49D5-BAB4-33C270DA1638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1408205E-6470-49D5-BAB4-33C270DA1638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC655BE-63C4-43C0-9071-5AB86EB40621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC655BE-63C4-43C0-9071-5AB86EB40621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC655BE-63C4-43C0-9071-5AB86EB40621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC655BE-63C4-43C0-9071-5AB86EB40621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC1E278-9EBB-4796-9E5A-5BB5B853CFB1}
+	EndGlobalSection
+EndGlobal
